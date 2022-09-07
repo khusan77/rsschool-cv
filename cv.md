@@ -32,9 +32,6 @@
 ***
 ## Education
 * [Personal Development Process](https://online.pdp.uz/ "PDP")
-#### Certificates
-* [Foundation Certificate](file:///C:/Users/acer/Desktop/Foundation%20Certificate.pdf "Foundation Certificate")
-* [Frontend Certificate](file:///C:/Users/acer/Desktop/Foundation%20Certificate.pdf "Frontend Certificate")
 ***
 ## English level
 Уровень английского языка - A2 (Elementary). На данное время планирую поднять свой уровень обучившись в учебном заведении.
